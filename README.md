@@ -1,15 +1,15 @@
-# InterviewPreparationKit
+# InterviewPreparationKit 🤩
 
 - This module consists of various Interview Preparation Materials and Possible Programming Questions on various Topics to be covered
 
-# Other Informations
+# Other Informations 🤩
 
 # Free Hosting front end  & backend : 
 
-⧩ http://netlify.com🤩
+⧩ http://netlify.com 
 ⧩ http://firebase.google.com
 ⧩ http://aws.amazon.com
-⧩ http://heroku.com 🤩
+⧩ http://heroku.com
 ⧩ http://pages.github.com
 ⧩ http://vercel.com
 ⧩ http://surge.sh
