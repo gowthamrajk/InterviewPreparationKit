@@ -6,7 +6,7 @@
 
 # Free Hosting front end  & backend : 
 
-⧩ http://netlify.com 
+⧩ http://netlify.com
 ⧩ http://firebase.google.com
 ⧩ http://aws.amazon.com
 ⧩ http://heroku.com
