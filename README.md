@@ -94,10 +94,10 @@
 45. www.professormesser.com .
 46. www.techiegen.com
 
-# Javascript Array cheat sheet
+# Javascript Array cheat sheet:
 
 ![IMG_20210426_123333](https://user-images.githubusercontent.com/43011442/116043781-b740aa00-a68d-11eb-8b71-dacd2532d4e4.JPG)
 
-# Top sites for Python Learning
+# Top sites for Python Learning:
 
 ![IMG_20210426_123405](https://user-images.githubusercontent.com/43011442/116043791-bc055e00-a68d-11eb-827c-856e975e7dd9.JPG)
