@@ -101,3 +101,8 @@
 # Top sites for Python Learning:
 
 ![IMG_20210426_123405](https://user-images.githubusercontent.com/43011442/116043791-bc055e00-a68d-11eb-827c-856e975e7dd9.JPG)
+
+# Simple image about UI:
+
+![image](https://user-images.githubusercontent.com/43011442/116970230-3a3cb280-acd5-11eb-9961-05499aab4afe.png)
+
