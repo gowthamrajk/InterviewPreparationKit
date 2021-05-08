@@ -108,3 +108,6 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/116970230-3a3cb280-acd5-11eb-9961-05499aab4afe.png)
 
+# Gendral Info:
+
+![image](https://user-images.githubusercontent.com/43011442/117540507-8cf7d080-b02d-11eb-8387-ba0e3cf1c588.png)
