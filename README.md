@@ -1,6 +1,7 @@
 # InterviewPreparationKit 🤩
 
 - This module consists of various Interview Preparation Materials and Possible Programming Questions on various Topics to be covered
+- It also has some userguides and additional reference documents to enhance your skills in various aspects.
 
 # Other Informations 🤩
 
