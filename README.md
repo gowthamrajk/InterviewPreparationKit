@@ -120,6 +120,7 @@
 
 # Javascript ES6 CheatSheet
 
+![ES6 cheatsheet](https://user-images.githubusercontent.com/43011442/126119563-64750c37-2b78-4623-a38b-bca71b3e8d71.JPG)
 
 <br>
 
