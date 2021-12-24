@@ -1,0 +1,158 @@
+Unix Operating System : 
+
+Operating System : 
+ - it is an interface between the computer hardware and human. 
+- It controls the allocation of resources like memory, devices, access, etc.. 
+- UNIX is a multi user, muti tasking, multi processing operating system. 
+- It is a commans line Interpreter. 
+
+Features : 
+- Multi user, multi tasking, hierarchical structure, open system, portability, programming facility, security, piping facility.
+
+
+
+Unix Files Colors : 
+
+Blue or Darkblue => Directory
+Green => Executable or recognized data file
+Sky blue => Linked file
+Yellow with black background => Device
+Pink => Graphic image files
+Red => Archive files or zip files
+
+
+Unix file Notations : 
+
+- => ordinary or regular files
+d => Directory
+c => Character special file
+b => Block special file
+I => symbolic link (linked files) 
+p => pipe related files
+s => socket related files
+* => executable files
+@ => linked file
+
+Unix is so much soffesticated for backward level as well forward level people also (black & white or colour screen also) 
+
+
+Unix Basic Commands : 
+
+- unix is a collection of commands. 
+- a command is a specific instruction givem to a computer application to perform some kind of task or function. 
+- unix is highly case sesnsitive OS. 
+
+
+Instructions related to Unix Commands : 
+- every command should be in lowercase
+- all command should start with alphabetic character
+- command should not contain any unnecessary special characters
+- all commands are keywords or reserved words
+
+
+
+Unix File System 
+- a file contains related data or information. 
+Types => 1) normal files / regular files
+                  2) directory files
+                  3) special files or device files
+
+
+
+Basic Unix Commands : 
+
+mkdir => creates a new directory with given name.
+pwd => present working directory/current working directory.
+ls => list of files/directories
+touch => create empty files
+cd directory_name => to open any directory. (then give ls to list all the files in that specific directory) 
+cd ..  => come out of that directory. 
+clear => clear the console
+cd home => where exactly the user list is available
+mv => move the file to another directory (mv file_name path) 
+head => first 10 lines in a file will be displayed (head file1.txt)
+tail => last 10 lines in a file will be displayed (tail file1.txt)
+tac => display the file content in reverse.
+more => similar to cat command, but used to display large content files (with giving enter/like a scrollbar) 
+id => display id of user / group. 
+vi => used to write program of text.
+grep => it will search for the given pattern of text in the mentioned file (grep pattern_text file_name) - it will display the searched pattern text highlighted in red colour. 
+diff => compares the difference between content of two files (diff file1_name file2_name) - display the different content only and do not display the common contents. 
+ping => checks the connectivity status of the serve. 
+history => review all the commands which we have entered. 
+hostname => display the host name
+hostname -i => IP address of the host
+chmod => change the permission for user/group (chmod u=r file_name/u=w file_name) - r = read permission, w = write permission.
+nl => line numbers for the file content will be displayed.
+wc => displays the number of line, words, characters available in the content. 
+uniq => removes duplicate of file content. It can remove only continuous duplicates. 
+rmdir => removes the specified directory (the directory should be empty) 
+rm => removes the specified file.
+
+
+ls *txt => only text files are listed
+ls *java => only java files are listed
+ls *c => only c files are listed
+and commands so on... etc.....
+
+who => currently which user is logged in with timestamp details also
+whoami => logged in user name
+logname => logged in user name
+man => manual which is providing online help information. eg: man who, man whoami, man logname, etc...  
+who --count => number of users
+who -d => number of deadlocks available
+who -b => when the system turn on
+cal => display calender
+-1 => display single month output. 
+-3 => display prev/current/next month output
+-s => display sunday as the first day of the week
+-m => display monday as the first day of the week
+-j => julian calender
+-y => display calender for the current year
+
+date => current date with timestamp
++%a => day in shortform
++%A => day in fullform
++%b => month in shortform
++%B => month in fullform
++%c => local date and time
++%C => date and time in century
++%d => day of month
++%D => date (%m /%d /%y)
++%e => day of month,  space padded
++%F => full date
++%g => last two digits of year
++%T => time in HH:MIN:SS
++%Y => full year (2021)
+-d => display time described by string
+-f => datefile
+-r => display last modification time of file
+-R => output date in RFC 2822 format
+-rfc => rfc format with precission
+-s => set time described by string
+-u, --utc, --universal => print or set universal time
+--help => display help and exit
+--version => output version information and exit
+
+
+
+Create normal files : 
+
+(by default normal files are available in blacl colour (-) notation) 
+
+cat => creating file, displaying file contents, appending file. 
+-A, --show-all => equivalent to -vET
+-b, --number-nonblank => number non empty output lines
+-e => equivalent to -vE
+-E, --show-ends => display $ at end of each line
+-n, --number => number all output lines
+-s, --squeeze-blank => suppress repeated empty output lines.
+-q => quit from there. 
+
+(>) standard output redirectional operator => eg: cat > gowthamfile1 => to write something in the file (CTRL + D to save the file after entering content) 
+
+(<) standard input redirectional operator => eg: cat < gowthamfile1 => to display the file content. 
+
+(>>) standard append redirectional operator => eg: cat >> gowthamfile1 => to add some additional content to already existing file (CTRL + D to save the file after entering content) 
+
+cat file1 file2 > file3 => creates a new files called file3 and copies the contents of file1 and file2 into it.
