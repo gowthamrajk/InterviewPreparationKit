@@ -127,6 +127,10 @@
 
 ![CTRL A to Z controls](https://user-images.githubusercontent.com/43011442/126119780-2d514945-2947-4b1c-aa9f-c36cf196fe98.JPG)
 
+## Basic Declaration of Variables in various Programming Languages
+
+![image](https://user-images.githubusercontent.com/43011442/154900818-57f368c2-0593-4115-b51b-ec2083fec68a.png)
+
 
 <br>
 
